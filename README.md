@@ -26,4 +26,5 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/>  </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukeshy97&show_icons=true&locale=en&layout=compact" alt="mukeshy97" /></p>
+</p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshy97&show_icons=true&locale=en" alt="mukeshy97" /></p>
