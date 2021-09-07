@@ -3,11 +3,14 @@
 <h1 align="center">Hi 👋, I'm Mukesh Yadav</h1>
 <h3 align="center">A passionate Data Science & Programmer from India</h3>
 
+
 - 🌱 I’m currently learning **Data Analyst course from Google & Data Analysis:Statistical Modeling and Computation in Applications from MIT**
 
 - 📫 How to reach me **mukeshy3010@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CAftM2uXuOe_E6bzhxS1fv8jnpqZG-U-/view?usp=sharing](https://drive.google.com/file/d/1CAftM2uXuOe_E6bzhxS1fv8jnpqZG-U-/view?usp=sharing)
+
+<img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - ⚡ Fun fact **I love to play Badminton and Cooking.**
 
@@ -28,3 +31,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukeshy97&show_icons=true&locale=en&layout=compact" alt="mukeshy97" /></p>
 </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshy97&show_icons=true&locale=en" alt="mukeshy97" /></p>
+
