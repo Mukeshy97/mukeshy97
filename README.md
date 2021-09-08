@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CAftM2uXuOe_E6bzhxS1fv8jnpqZG-U-/view?usp=sharing](https://drive.google.com/file/d/1CAftM2uXuOe_E6bzhxS1fv8jnpqZG-U-/view?usp=sharing)
 
-<img align="right" alt="coding" width="450" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 - ⚡ Fun fact **I love to play Badminton and Cooking.**
 
