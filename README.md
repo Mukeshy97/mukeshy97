@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **mukeshy3010@gmail.com**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/mukesh-yadav-461440207">Link</a>
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/mukesh-yadav-461440207">**Link**</a>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
