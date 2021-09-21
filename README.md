@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mukesh Yadav</h1>
 <h3 align="center">A passionate Data Science & Programmer from India</h3>
-
+<h3> Welcome to my little space on GitHub. I am very passionate about finding hidden insight in the data, power of coding and how they can give you the confidence to solve whatever problems you face. On the technical side, I have extensively worked with statistical analysis tools, namely RStudio, Python, SQL and Excel. I aspire to work on the role of Data scientist, Data analyst or related field in Data science. Efficient in gathering, analyzing, and interpreting business data to identify patterns and trends that can enhance business opportunities. I have keen interest in learning new language and technology and exploring the same.</h3>
 
 - 🌱 I’m currently learning **Data Analyst course from Google & Data Analysis:Statistical Modeling and Computation in Applications from MIT**
 
